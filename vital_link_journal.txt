@@ -1,0 +1,5 @@
+{
+"name":"Your Name"
+"course":"CS104"
+"jounal":Vital Link"
+}
